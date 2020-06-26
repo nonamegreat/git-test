@@ -13,9 +13,12 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
+
+        /* here have some change */
     }
 
     private void test1() {
         System.out.println("第一次修改");
+        System.out.println("这里有些修改........");
     }
 }
